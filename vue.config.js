@@ -4,7 +4,7 @@ module.exports = {
     disableHostCheck: true
   },
 
-  publicPath: undefined,
+  publicPath: "marriage-contract",
   outputDir: undefined,
   assetsDir: undefined,
   runtimeCompiler: true,
