@@ -1,0 +1,31 @@
+.network {
+  position: relative;
+
+  .vis-configuration-wrapper {
+    overflow-x: hidden;
+    background: #fff;
+    width: 530px;
+    padding: 12px;
+    height: calc(100vh - 200px);
+    overflow-y: scroll;
+    position: absolute;
+  }
+}
+
+.command-group {
+  background: #fff;
+  border-radius: 8px;
+  z-index: 1;
+  width: 340px;
+
+  top: 12px;
+  position: absolute;
+  right: 12px;
+
+
+}
+
+.tab-content {
+  height: 480px;
+  overflow-y: scroll;
+}
