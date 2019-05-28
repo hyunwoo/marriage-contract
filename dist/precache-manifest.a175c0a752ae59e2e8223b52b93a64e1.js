@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "fa99e117a3f1468bcc79",
+    "revision": "43e4e89bc29b27f23866",
     "url": "/marriage-contract/css/app.69586093.css"
   },
   {
-    "revision": "fa99e117a3f1468bcc79",
-    "url": "/marriage-contract/js/app.76fb64d5.js"
+    "revision": "43e4e89bc29b27f23866",
+    "url": "/marriage-contract/js/app.75221091.js"
   },
   {
     "revision": "28a4231786393f96e49c",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/marriage-contract/js/chunk-vendors.3b380c68.js"
   },
   {
-    "revision": "84464419dced550539eedea37ce7d073",
+    "revision": "616139348beb0b5976d02eb70a7e458a",
     "url": "/marriage-contract/index.html"
   },
   {
